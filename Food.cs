@@ -6,6 +6,7 @@ namespace Snake_game
     class Food
     {
         Random rand= new Random();
+
         int size =50;
 
         public int x_Cor;
